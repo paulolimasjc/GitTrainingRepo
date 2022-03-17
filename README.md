@@ -7,7 +7,7 @@ Ao aprimorar os conhecimentos pretendo aplica-los como voluntario em projetos op
 
 Minhas areas de atuacao sao elaboracao e traducao de documentacao tecnica, analise de sistemas, desenvolvimento e teste de software.
 
-!(IMG)[./systemanalysis.png]
+<img src="systemanalysis.png" alt="Some Image" height="150" width="150" >
 
 # Repository for Git Studies (EN)
 This repository was created to apply my knowledges obtained on the git / github systems.
