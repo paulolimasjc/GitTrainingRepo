@@ -17,3 +17,6 @@ My goal is to put this knowledges into practice, together with other knowledge o
 When enhancing the knowledges I intend to apply it as a volunteer on open source projects.
 
 My areas of expertise are preparation and tranlation of technical documentation, system analysis, software development and testing.
+
+Records:
+2022-03-24 4:55PM BRT - After change my LIVE USB linux I've clone the repository from GitHub back to my linux and was able to update files. 
