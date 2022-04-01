@@ -22,3 +22,4 @@ My areas of expertise are preparation and tranlation of technical documentation,
 2022-03-24 - After change my LIVE USB linux I've clone the repository from GitHub back to my linux and was able to update files. 
 2022-03-24 - modifying this document was easy, but push it back to server required me to update the remote address and to run the git config to the credential helper
 2022-03-24 - git test using Visual Studio Code
+2022-04-01 - testing multiple branches
